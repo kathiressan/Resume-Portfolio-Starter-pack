@@ -6,8 +6,8 @@ const Testimonials = ({ data }) => {
       return (
         <li key={testimonials.user}>
           <blockquote>
-            <p>{testimonials.text}</p>
-            <cite>{testimonials.user}</cite>
+            <p className="blackText">{testimonials.text}</p>
+            <cite className="blackText">{testimonials.user}</cite>
           </blockquote>
         </li>
       );
