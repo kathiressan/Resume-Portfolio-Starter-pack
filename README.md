@@ -1,4 +1,4 @@
-# PAPA React JS Resume Starter Pack and Digital Portfolio
+# React JS Resume Starter Pack and Digital Portfolio
 
 ![React JS Portfolio Starter Pack](resume-screenshot.png?raw=true "React JS Portfolio Stater Pack ")
 
